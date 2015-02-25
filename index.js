@@ -1,7 +1,7 @@
 module.exports = {
     ShipConfirm: require('./lib/shipConfirm'),
     ShipAccept: require('./lib/shipAccept'),
-    AddressValidation: require('./lib/AddressValidation'),
+    AddressValidation: require('./lib/addressValidation'),
     VoidShipment: require('./lib/voidShipment'),
     TimeInTransit: require('./lib/timeInTransit'),
     Rating: require('./lib/rating'),
